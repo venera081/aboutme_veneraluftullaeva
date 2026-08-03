@@ -4,7 +4,7 @@ I am a Python Backend Developer with experience in building REST APIs and backen
 
 I have experience designing backend logic, creating database models, developing APIs, implementing authentication systems, and working with third-party integrations. During my internship at Geeks Pro, I collaborated with a development team on the backend of the official Enactus Kyrgyzstan platform, gaining practical experience in real-world software development.
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Programming**
 
